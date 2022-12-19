@@ -1,3 +1,9 @@
+# Dear Future Employer, 
+# If you are redirected to this Markdown file of this project instead of the original repo of this project which containns its source code, that means the webpage is on the risk of leaking the project's API Key, thus, out of private API Key protection concern, I have to set the original sources codes in the original repo as private. Please refer to this following README.md developing note to view the developing process of this particular project. And if you would like to view the source code of this project, please feel free to email me at krystalzhang612@gmail.com, then I will email you the source code folder of this prject. Thank you so much for understanding, and I am so sorry for the incovenience out of security concern. 
+# ----- Krystal Zhang
+
+
+
 # MyMovieLand App
 A movie searching application using OMDb API and Vanilla JavaScript with the open movie database, which is a RESTful web service to obtain movie information, all content and images are contributed and maintained by OMDb.
 ## ***[Copyright and Commercial Use Disclaimer](https://github.com/KrystalZhang612/KrystalZhang-MyMovieLand-App/blob/main/README.md#please-carefully-read-licensemd-about-the-open-source-restrictions-and-the-personal-use-policy-of-this-project-under-gpl-30-license-any-commericial-uses-on-this-project-by-other-than-the-owner-krystalzhang612-or-the-authorized-users-and-organizations-including-unauthorized-modifications-forks-pull-requests-and-other-commercial-related-uses-will-be-subjected-to-copyright-violation-with-sebsequent-legal-concerns)***
