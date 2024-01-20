@@ -1,6 +1,18 @@
-# Dear Future Employer, 
-# If you are redirected to this Markdown file of this project instead of the original repo of this project which containns its source code, that means the webpage is on the risk of leaking the project's API Key, thus, out of private API Key protection concern, I have to set the original sources codes in the original repo as private. Please refer to this following README.md developing note to view the developing process of this particular project. And if you would like to view the source code of this project, please feel free to email me at krystalzhang612@gmail.com, then I will email you the source code folder of this prject. Thank you so much for understanding, and I am so sorry for the incovenience out of security concern. 
-# ----- Krystal Zhang
+```text
+Dear Future Employer, 
+If you are redirected to this Markdown file of this project instead of the
+original repo of this project which containns its source code, that means the
+webpage is on the risk of leaking the project's API Key, thus, out of private
+API Key protection concern, I have to set the original sources codes
+in the original repo as private. Please refer to this following README.md
+developing note to view the developing process of this particular project.
+And if you would like to view the source code of this project, please feel
+free to email me at csezhang@uvcdavis.edu, then I will email you the source
+code folder of this prject. Thank you so much for understanding, and
+I am so sorry for the incovenience out of security concern.
+Have a nice day! 
+----- Krystal Zhang
+```
 
 
 
